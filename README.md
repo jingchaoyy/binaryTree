@@ -1,2 +1,2 @@
-# binaryTree
-Easy implementation of binary tree
+# geoTrees
+Easy implementation of tree structures for geo research
